@@ -10,6 +10,8 @@
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
   <component name="com.itcodebox.notebooks.projectservice.ProjectUIState">
-    <option name="selectedNotebookId" value="1" />
+    <option name="selectedNotebookId" value="2" />
+    <option name="selectedChapterId" value="2" />
+    <option name="selectedNoteId" value="2" />
   </component>
 </project>
